@@ -1,0 +1,39 @@
+body{
+	font-family: 'Droid Serif', serif;
+}
+
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.feature img{
+	border-radius: 50%;
+	border : 1px solid black;
+}
+#my-header{
+	text-align: center;
+	padding-top: 150px;
+	color: white;
+	padding-bottom:  150px;
+	background :url("http://lorempixel.com/1300/600/nightlife");
+}
+
+.feature{
+	font-weight: 300;
+	padding: 40px;
+}
+
+#my-footer{
+	padding-top: 30px;
+	padding-bottom:  30px;
+	color: lightgray;
+	background: rgb(30,30,30);
+	text-align: center;
+}
+
+#my-footer a{
+	color:  lightgray;
+}
+
+#my-footer a:hover{
+	color: white;
+}
